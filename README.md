@@ -21,7 +21,7 @@ A simple Hangman game implemented in Python. The game randomly selects a word fr
    git clone https://github.com/your-username/hangman-game.git
    cd hangman-game
 
-## Gameplay:
+## Gameplay
 
 - The game starts by randomly selecting a word from the list.
 - You have to guess letters or the entire word within a limited number of tries (6 in this case).
