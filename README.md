@@ -18,7 +18,7 @@ A simple Hangman game implemented in Python. The game randomly selects a word fr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   git clone https://github.com/MTaimoorK/hangman-game.git
    cd hangman-game
 
 ## Gameplay
